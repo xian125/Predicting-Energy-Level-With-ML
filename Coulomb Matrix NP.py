@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Feb 14 21:47:36 2019
-
 @author: XIAN
+
+Reference:
+Cameron Jones, 2018.Coulomb Matrix Generator.
+https://github.com/cameronus/coulomb-matrix/blob/master/generate.py
+
 """
 
 from rdkit.Chem import AllChem as Chem
